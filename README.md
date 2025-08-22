@@ -153,11 +153,10 @@ The **conversation window** and **input area** adjust dynamically for smaller sc
 
 Clone the repository and open **`index.html`** in your browser to interact with the agent.
 
-```bash
+
 git clone https://github.com/your-repository/agentflow.git
 cd agentflow
 open index.html
-
 
 
 
